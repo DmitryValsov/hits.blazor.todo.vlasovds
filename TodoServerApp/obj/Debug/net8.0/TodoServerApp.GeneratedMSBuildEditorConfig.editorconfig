@@ -186,8 +186,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tuckyoy/RiderProjects/hits.blazor.todo.vlasovds/TodoServerApp/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+[/Users/tuckyoy/RiderProjects/hits.blazor.todo.vlasovds/TodoServerApp/Components/Pages/TaskForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tuckyoy/RiderProjects/hits.blazor.todo.vlasovds/TodoServerApp/Components/Pages/Weather.razor]
@@ -209,3 +209,7 @@ build_metadata.AdditionalFiles.CssScope = b-mhhimmfoax
 [/Users/tuckyoy/RiderProjects/hits.blazor.todo.vlasovds/TodoServerApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-95b59jfuw5
+
+[/Users/tuckyoy/RiderProjects/hits.blazor.todo.vlasovds/TodoServerApp/Components/Pages/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-t1vi0gwlg3
